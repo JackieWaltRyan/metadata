@@ -1,0 +1,108 @@
+{
+    "subs": [
+        {
+            "lang": "rus",
+            "name": "anon2anon"
+        },
+        {
+            "lang": "rus",
+            "name": "TheDoctor Team"
+        },
+        {
+            "lang": "rus",
+            "name": "Нетфликс"
+        },
+        {
+            "lang": "ukr",
+            "name": "Нетфлiкс"
+        },
+        {
+            "lang": "eng",
+            "name": "anon2anon"
+        }
+    ],
+    "dubs": [
+        {
+            "lang": "rus",
+            "name": "Нетфликс"
+        },
+        {
+            "lang": "rus",
+            "name": "TV Shows"
+        },
+        {
+            "lang": "rus",
+            "name": "FlutixTV"
+        },
+        {
+            "lang": "rus",
+            "name": "Jbond"
+        },
+        {
+            "lang": "rus",
+            "name": "AlexMain (BronyPony)"
+        },
+        {
+            "lang": "ukr",
+            "name": "Нетфлiкс"
+        },
+        {
+            "lang": "deu",
+            "name": "Netflix"
+        },
+        {
+            "lang": "fra",
+            "name": "Netflix"
+        },
+        {
+            "lang": "jap",
+            "name": "ネットフリックス"
+        },
+        {
+            "lang": "eng",
+            "name": "Original"
+        }
+    ],
+    "videos": [
+        "2160",
+        "1440",
+        "1080",
+        "720",
+        "480",
+        "360",
+        "240",
+        "144"
+    ],
+    "songs": [
+        "Gonna Be My Day",
+        "I’m Lookin’ Out For You",
+        "Danger, Danger",
+        "Glowin' Up",
+        "Fit Right In",
+        "It's Alright",
+        "Together"
+    ],
+    "writers": [],
+    "releases": [
+        {
+            "countryCode": "RUS",
+            "date": "2021-09-18"
+        },
+        {
+            "countryCode": "USA",
+            "date": "2021-09-24"
+        }
+    ],
+    "translations": [
+        {
+            "locale": "en",
+            "title": "My Little Pony: A New Generation",
+            "description": "In the new movie, the pony world of Equestria has lost its magic. Friendship and Harmony have been replaced by paranoia and mistrust, and Ponies now live separated by species. Sunny -- a feisty and idealistic young Earth Pony -- is convinced there’s still hope for this divided world, but her slightly misguided and often hilarious efforts to change hearts and minds have led to her being branded a misfit. When Sunny befriends a lost Unicorn named Izzy, who wanders innocently into the Earth Pony town of Maretime Bay, the town has had enough. Izzy and Sunny must embark on an epic adventure that will include a daring jewel heist, outrageous conspiracy theories, elaborate musical numbers, and the world’s cutest flying Pomeranian. Their adventures will take them to faraway lands and force them to challenge the status quo by facing their fears and making new friends out of old enemies. The world Sunny has dreamed of her entire life could finally become a reality as Sunny and her newfound friends fight to prove that even little ponies can make a big difference."
+        },
+        {
+            "locale": "ru",
+            "title": "Мой Маленький Пони: Новое Поколение",
+            "description": "В новом фильме Эквестрия осталась без магии. Дружба и гармония оказались сметены паранойей и недоверием, и каждая раса теперь живёт отдельно от других. Санни – жизнерадостная пони с идеалистическими взглядами, уверена, что для их мира ещё есть надежда. Впрочем, не все разделяют её взгляды, поэтому кобылка очень быстро становится изгоем в своём обществе. Ситуация осложняется, когда Санни встречает заблудившуюся единорожку Иззи, которая по случайности забрела в город земных пони – Мэйртайм Бэй. Эта запретная дружба и становится камнем преткновения для жителей городка. Теперь Иззи и Санни предстоит отправиться в захватывающее приключение, в ходе которого они поучаствуют в похищении драгоценностей, столкнутся с конспирацией, споют и станцуют, а также встретятся с милейшей летающей померанкой. Это приключение заведёт их в места, о существовании которых они и не догадывались, столкнёт их лицом к лицу со своими страхами и покажет, как даже заклятых врагов обратить в друзей. Санни своими копытами может построить мир, о котором она мечтает, и доказать, что даже маленькие и, казалось бы, незначительные пони имеют большое значение."
+        }
+    ]
+}
